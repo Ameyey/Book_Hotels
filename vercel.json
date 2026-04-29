@@ -21,6 +21,10 @@
     {
       "src": "/(.*)",
       "dest": "client/$1"
+    },
+      {
+      "src": "/(.*)",
+      "dest": "/index.html"
     }
   ]
 }
